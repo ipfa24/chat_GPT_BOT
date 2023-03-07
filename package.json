@@ -1,0 +1,16 @@
+{
+  "name": "open-ai",
+  "version": "1.0.0",
+  "description": "bot chat GPT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IPFA",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "openai": "^3.1.0"
+  }
+}
